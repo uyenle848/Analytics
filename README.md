@@ -1,1 +1,1 @@
-# Business-analytics
+# Analytics work sample
